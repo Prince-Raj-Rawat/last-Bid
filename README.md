@@ -40,7 +40,7 @@ The core gameplay revolves around three activities:
 
 Watch the gameplay video to see Last-Bid in action.
 
-**Gameplay video:** *Coming soon — link to be added.*
+**Gameplay video:** [link](https://youtu.be/HqvqJfpHriQ)
 
 ## Getting Started
 
