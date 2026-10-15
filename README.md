@@ -91,11 +91,12 @@ GitHub: [@Prince-Raj-Rawat](https://github.com/Prince-Raj-Rawat)
 - Gameplay testing
 - GitHub : [@rudrapratap}(https://github.com/Rudra9907)
 
-### Rudra Prashar
+### Rudra Parashar
 
 - Core story development and endings
 - Core game development
-- Music design
+- Music Addition
+- Story Expansion
 - GitHub: [@Rudra1024](https://github.com/Rudra1024)
 
 ## Repository Contents
